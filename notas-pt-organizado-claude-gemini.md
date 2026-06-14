@@ -7,7 +7,7 @@
 > Code. Quando o Gemini CLI **não** tem um recurso equivalente, isso é dito
 > explicitamente, junto com o workaround mais próximo.
 
-No que se refere às notas do Claude, as mesmas foram extraídas do curso da Udemy: [Claude Code Bootcamp](https://www.udemy.com/course/claude-code-bootcamp)
+No que se refere às notas do Claude, as mesmas foram formuladas/extraídas do curso da Udemy: [Claude Code Bootcamp](https://www.udemy.com/course/claude-code-bootcamp)
 
 - [1. /model (Claude)](#1-model-claude)
 - [2. /model (Gemini)](#2-model-gemini)
