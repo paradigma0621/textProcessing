@@ -2,6 +2,11 @@
 
 > 💡 **Em uma frase:** o **IBM PC 5150** (agosto de 1981, Intel **8088**) era um sistema baseado em disquetes cuja **memória** — minúscula para os padrões atuais — era exatamente o suficiente para rodar o **MS-DOS** e os primeiros aplicativos de produtividade.
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/IBM_PC-IMG_7271_%28transparent%29.png/420px-IBM_PC-IMG_7271_%28transparent%29.png" alt="IBM PC 5150" width="420"><br>
+  <em>O IBM PC 5150 (1981). Fonte: Wikimedia Commons.</em>
+</p>
+
 > 📎 **Nota:** este arquivo foca nos **detalhes de memória e armazenamento** do IBM PC original. Para a história completa, arquitetura aberta, clones e a família (XT, AT, PS/2), veja [`IBM-PC.md`](IBM-PC.md).
 
 ---
@@ -23,7 +28,7 @@
 
 | Atributo | Valor |
 |---|---|
-| 🧠 **Processador** | Intel **8088** @ 4,77 MHz |
+| 🧠 **Processador** | Intel **8088 (8 bits)** @ 4,77 MHz |
 | 📅 **Lançamento** | Agosto de 1981 |
 | 💾 **RAM inicial** | 16 KB (placa-mãe) |
 | 💾 **RAM máxima** | 256 KB (peças IBM) → **640 KB** (limite DOS) |

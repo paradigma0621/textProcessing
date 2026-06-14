@@ -114,7 +114,7 @@ O PC original (5150) trazia:
 
 ### 6.2. IBM PC/AT (1984)
 
-- 🧠 Processador **Intel 80286** (originalmente **6 MHz**, depois 8 MHz).
+- 🧠 Processador **Intel 80286 (16 bits)** (originalmente **6 MHz**, depois 8 MHz).
 - 🔌 Barramento **ISA de 16 bits**.
 - 💽 **HD de 20 MB**.
 - ⚠️ Primeiros AT tiveram problemas de confiabilidade (HDs de 20 MB da **CMI**); após a substituição, o AT tornou-se um **padrão industrial duradouro**.

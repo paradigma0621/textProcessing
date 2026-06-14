@@ -1,4 +1,4 @@
-# 🔵 Intel Pentium — a era das CPUs com nome (e marca)
+# 🔵 Intel Pentium — a era das CPUs superescalares de **32 bits** (e marca própria)
 
 > 💡 **Em uma frase:** a partir de **1993**, a linha **Pentium** abandonou os "números" (286/386/486) por uma **marca registrável** e inaugurou a era **superescalar** do x86 — evoluindo de um único núcleo a **64 bits** para a multimídia, a internet e, por fim, os **múltiplos núcleos**.
 
