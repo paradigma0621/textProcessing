@@ -3,8 +3,8 @@
 > 💡 **Em uma frase:** esta é a evolução arquitetural dos videogames — do **Atari 2600** (8 bits, sem framebuffer) ao **NES** e **Master System**, passando pela guerra de 16 bits entre **Mega Drive** e **SNES**, até a revolução **3D** do **PlayStation** e **Nintendo 64**.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/NES-Console-Set.png/300px-NES-Console-Set.png" alt="NES" width="300">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SNES-Mod1-Console-Set.png/300px-SNES-Mod1-Console-Set.png" alt="SNES" width="300"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/NES-Console-Set.png?width=300" alt="NES" width="300">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/SNES-Mod1-Console-Set.png?width=300" alt="SNES" width="300"><br>
   <em>NES (esq.) e Super Nintendo (dir.). Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -141,7 +141,7 @@ O **SNES** (Super Famicom no Japão, 1990; SNES nos EUA, 1991; Brasil, 1993) foi
 ## 5. Mega Drive onde ele se encaixa
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sega-Genesis-Mk2-6button.jpg/360px-Sega-Genesis-Mk2-6button.jpg" alt="Sega Mega Drive / Genesis" width="360"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sega-Genesis-Mk2-6button.jpg?width=360" alt="Sega Mega Drive / Genesis" width="360"><br>
   <em>Sega Mega Drive (Genesis) Modelo 2 com controle de 6 botões. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -169,6 +169,8 @@ O **Mega Drive** (Genesis na América do Norte) é o **concorrente direto do SNE
 | Efeitos especiais | manuais (parallax, raster) | **Mode 7, transparência, rotação** |
 
 > ⚖️ **Abordagens diferentes:** o **Mega Drive** ganhava em **velocidade e ação** (CPU mais rápida — pense em *Sonic*); o **SNES** ganhava em **cores, efeitos e áudio** (*Donkey Kong Country*, *Super Mario Kart*). Foi uma das rivalidades mais lendárias dos games.
+
+> ⭐ **Curiosidade — "Blast Processing":** a SEGA cunhou esse termo de marketing para vender a sensação de **velocidade** do Mega Drive (na prática, ligado ao **DMA** e à CPU 68000 mais veloz). Fez parte da campanha agressiva *"Genesis does what Nintendon't"* contra a Nintendo — uma das maiores guerras de marketing da história dos games.
 
 | Jogo do Mega Drive | Destaque |
 |---|---|

@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** criado em **1964** em Dartmouth para tornar a programação acessível a leigos, o **BASIC** virou a linguagem padrão dos primeiros computadores pessoais — e foi o **primeiro grande produto da Microsoft** (o Altair BASIC, de 1975).
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Altair_8800_Computer.jpg/420px-Altair_8800_Computer.jpg" alt="Altair 8800" width="420"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Altair_8800_Computer.jpg?width=420" alt="Altair 8800" width="420"><br>
   <em>O Altair 8800 (1975), para o qual Gates e Allen criaram o Altair BASIC. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -48,6 +48,8 @@ Com os **microcomputadores** dos anos 1970, o BASIC virou uma das primeiras ling
 - 💰 O **Altair BASIC** foi o **primeiro grande sucesso de software da Microsoft** — e o licenciamento para outras fabricantes consolidou o BASIC como linguagem padrão dos PCs.
 
 > 💡 **Marco da Microsoft:** o BASIC literalmente **fundou** a empresa de Gates e Allen. Antes do MS-DOS e do Windows, era o BASIC que pagava as contas.
+
+> 📜 **A "Carta Aberta aos Hobbistas" (1976):** irritado com a **pirataria** do Altair BASIC (copiado em fitas entre entusiastas), **Bill Gates** publicou uma carta acusando-os de "roubar" software. Foi um marco na ideia de **software como produto pago** — e não algo a se compartilhar livremente.
 
 ---
 
@@ -104,6 +106,7 @@ Nos anos 1980, o BASIC vinha **pré-instalado na ROM** de muitos computadores pe
 - 🎓 O BASIC **democratizou a programação**, formando uma geração de programadores nos anos 1980.
 - 💰 Foi a **base do império Microsoft**.
 - 🧩 Sua filosofia "fácil de começar" ecoa em linguagens modernas voltadas a iniciantes (como **Python** e **Scratch**).
+- 😅 **Nem todos gostavam:** o influente cientista **Edsger Dijkstra** chegou a dizer que era "praticamente impossível ensinar boa programação a quem teve contato prévio com BASIC" — uma crítica ao abuso do comando `GOTO` e dos números de linha.
 
 ---
 

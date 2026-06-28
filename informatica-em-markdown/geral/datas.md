@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** um guia rápido de **datas-chave** da informática e da eletricidade — gerações de computadores, invenções fundamentais e os primórdios da engenharia elétrica — em formato de **revisão** para memorização.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/ENIAC_Penn1.jpg/420px-ENIAC_Penn1.jpg" alt="ENIAC" width="420"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/ENIAC_Penn1.jpg?width=420" alt="ENIAC" width="420"><br>
   <em>O ENIAC (1945), marco da 1ª geração de computadores. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -60,6 +60,8 @@
 | **1880s** | Sistemas de **corrente alternada (CA)** | Nikola Tesla / George Westinghouse |
 
 > ⚡ **Resumo:** a eletricidade passou a ser usada em larga escala no **fim do século XIX** (iluminação pública e indústria) e se expandiu globalmente no **século XX**.
+
+> ⭐ **Curiosidade — a "Guerra das Correntes":** no fim dos anos 1880, **Edison** (corrente contínua, CC) e **Tesla/Westinghouse** (corrente alternada, CA) travaram uma disputa feroz pelo padrão elétrico. A **CA venceu** por transmitir energia a longas distâncias com muito menos perdas — e é o padrão das tomadas até hoje.
 
 ---
 

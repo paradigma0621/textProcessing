@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** a história da memória nos PCs é a história do **endereçamento** — da barreira de **1 MB** do 8088 (modo real) aos **16 MB** do 286 (modo protegido) e aos **4 GB** do 386, com o salto decisivo da **proteção de memória** e da **paginação**.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KL_Intel_i286.jpg/360px-KL_Intel_i286.jpg" alt="Intel 80286" width="360"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/KL_Intel_i286.jpg?width=360" alt="Intel 80286" width="360"><br>
   <em>O Intel 80286, que trouxe o modo protegido ao IBM AT. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -71,6 +71,8 @@ Porque a **proteção precisa de suporte do hardware**. No 8088, as **interrupç
 ### 4.2. IBM AT — Intel 80286
 - 🧮 **24 bits** → **16 MB** no modo protegido (1 MB no modo real, por compatibilidade).
 - 🛡️ Proteção de memória (pouco usada pelo MS-DOS).
+
+> 🤓 **Curiosidade — a "linha A20":** o 8088 "dava a volta" no endereço ao ultrapassar 1 MB (*wrap-around*), e muitos programas dependiam disso. Para manter a compatibilidade, o IBM AT passou a **controlar a 21ª linha de endereço (a A20)** — e, por falta de pino livre, esse controle foi parar no **controlador do teclado**! Habilitar a *"A20 gate"* virou um ritual obrigatório de todo sistema que quisesse acessar memória acima de 1 MB.
 
 ### 4.3. IBM PS/2 — Intel 80386
 - 🧮 **32 bits** → **4 GB** físicos; até **64 TB** virtuais.

@@ -122,19 +122,21 @@ Caches (sum of all):
 <a id="5-placa-de-vídeo-nvidia-rtx-3070-ti"></a>
 ## 5. Placa de vídeo NVIDIA RTX 3070 Ti
 
-A **NVIDIA GeForce RTX 3070 Ti** (junho/2021, arquitetura **Ampere**) é uma GPU de alto desempenho para jogos e criação.
+A **NVIDIA GeForce RTX 3070 Ti Laptop** (arquitetura **Ampere**; versão móvel lançada em 2022) é uma GPU de alto desempenho para jogos e criação.
 
 | Especificação | Valor |
 |---|---|
-| 🏗️ **Arquitetura** | Ampere |
-| 🧮 **Núcleos CUDA** | 6.144 |
+| 🏗️ **Arquitetura** | Ampere (GA104 — versão **Laptop**) |
+| 🧮 **Núcleos CUDA** | **5.888** (46 SMs) |
 | 💡 **RT Cores** | 2ª geração |
 | 🤖 **Tensor Cores** | 3ª geração |
 | 🎞️ **VRAM** | 8 GB GDDR6 |
-| ⏱️ **Clock base / boost** | 1.575 / 1.770 MHz |
+| ⏱️ **Clock boost** | até ~**1.485 MHz** (varia com o TGP) |
 | 🔗 **Interface de memória** | 256 bits |
-| 🔥 **TDP** | 290 W (PSU recomendada: 750 W+) |
+| 🔋 **TGP** | até **150 W** (com Dynamic Boost) |
 | 🖥️ **Saídas** | HDMI 2.1, DisplayPort 1.4a |
+
+> ⚠️ **Atenção — _laptop_ × _desktop_:** esta é a **RTX 3070 Ti _Laptop_**, que **não** deve ser confundida com a **desktop** de mesmo nome. A versão de mesa tem **6.144 núcleos CUDA**, memória **GDDR6X** e **290 W**; a móvel usa **5.888 núcleos**, **GDDR6** e um envelope de energia bem menor — o que favorece a autonomia, mas reduz o desempenho frente à desktop. É uma das maiores fontes de confusão ao comparar GPUs de notebook.
 
 ### 5.1. Tecnologias-chave
 

@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** dos enormes disquetes de **8 polegadas** (1971) ao onipresente **3½" de 1,44 MB**, passando por tentativas de alta capacidade como o **ZIP** e o **SuperDisk**, os disquetes dominaram o armazenamento removível por **30 anos** — até serem varridos por CDs, pen drives e a nuvem.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Floppy_disk_2009_G1.jpg/420px-Floppy_disk_2009_G1.jpg" alt="Disquetes de 8, 5,25 e 3,5 polegadas" width="420"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Floppy_disk_2009_G1.jpg?width=420" alt="Disquetes de 8, 5,25 e 3,5 polegadas" width="420"><br>
   <em>Os três principais formatos: 8", 5¼" e 3½". Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -66,6 +66,8 @@
 
 > 💡 **Curiosidade:** o ícone de "salvar" 💾 da maioria dos softwares **ainda é um disquete de 3½"** — um fóssil digital que muitos jovens nunca usaram de verdade!
 
+> 🤓 **"1,44 MB" nem é 1,44 MB de verdade:** a conta usa uma unidade híbrida — 80 trilhas × 18 setores × 2 lados × 512 bytes = **1.474.560 bytes** (isto é, 1440 KiB, com "K" = 1024 e "M" = 1000×1024). Um dos cálculos de capacidade mais bagunçados da história.
+
 ---
 
 <a id="5-as-tentativas-de-alta-capacidade"></a>
@@ -97,4 +99,4 @@
 - 📖 Wikipédia (PT): [Disquete](https://pt.wikipedia.org/wiki/Disquete)
 - 📖 Wikipédia (EN): [Floppy disk](https://en.wikipedia.org/wiki/Floppy_disk) · [Zip drive](https://en.wikipedia.org/wiki/Zip_drive)
 
-> 🔗 **Veja também:** [`../acessorios/memoria.md`](../acessorios/memoria.md) · [`memoria.md`](memoria.md) · [`../computadores/IBM_PC_5150.md`](../computadores/IBM_PC_5150.md)
+> 🔗 **Veja também:** [`../acessorios/memoria.md`](../acessorios/memoria.md) · [`memoria.md`](memoria.md) · [`../computadores/IBM-PC.md`](../computadores/IBM-PC.md)

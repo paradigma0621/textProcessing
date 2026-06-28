@@ -49,7 +49,7 @@ O **barramento do sistema** divide-se em:
 ## 3. O Intel 4004 o primeiro microprocessador
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Intel_C4004.jpg/360px-Intel_C4004.jpg" alt="Intel 4004" width="360"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Intel_C4004.jpg?width=360" alt="Intel 4004" width="360"><br>
   <em>O Intel 4004, o primeiro microprocessador comercial (1971). Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -68,6 +68,8 @@ O **Intel 4004** (1971) foi o **primeiro microprocessador comercial** — a CPU 
 - 🏭 Usado em calculadoras, controladores industriais e sistemas embarcados.
 - 🚀 Foi rapidamente sucedido pelo **8008** (1972) e **8080** (1974), abrindo caminho para os PCs.
 
+> ⭐ **Curiosidade:** o projeto do 4004 foi liderado por **Federico Faggin** (com Ted Hoff, Stanley Mazor e Masatoshi Shima). Faggin gravou as próprias **iniciais "F.F."** no canto do chip — e mais tarde fundaria a **Zilog**, criadora do lendário **Z80**.
+
 ---
 
 <a id="4-o-papel-da-amd"></a>
@@ -76,7 +78,7 @@ O **Intel 4004** (1971) foi o **primeiro microprocessador comercial** — a CPU 
 A **AMD (Advanced Micro Devices)** entrou no mercado de PCs como **segunda fonte** da Intel:
 
 - 📜 Após o sucesso do IBM PC, a IBM queria **não depender só da Intel**. Por isso, a Intel **licenciou** os designs do **8088/8086** para outras empresas.
-- 🏭 A partir de ~**1982**, a AMD passou a fabricar o **Am9088** (clone licenciado do 8088), compatível com o IBM PC.
+- 🏭 A partir de ~**1982**, a AMD passou a fabricar o **Am8088** (clone licenciado do 8088), compatível com o IBM PC.
 - 💰 Os chips da AMD eram usados em **clones de IBM PC**, ajudando a **expandir o mercado** e **reduzir custos**.
 
 > 🥊 Décadas depois, a AMD se tornaria a **grande rival** da Intel (Athlon, Opteron, Ryzen).
@@ -95,7 +97,7 @@ Ambos são processadores de **16 bits**, mas:
 | Usado no IBM PC original? | Não | **Sim** |
 
 - 💰 A IBM escolheu o **8088** no PC original (1981) porque o barramento de 8 bits permitia usar **componentes mais baratos** de 8 bits.
-- 🖥️ O **8086** (mais rápido) foi usado em muitos **clones** e em máquinas como o **IBM System/23 Datamaster** (que influenciou o design do PC).
+- 🖥️ O **8086** (mais rápido) foi usado em muitos **clones**. Curiosamente, o **IBM System/23 Datamaster** — que muito influenciou o design do PC — usava o **Intel 8085** (8 bits); foi no PC que a IBM deu o salto para o **8088**.
 
 ---
 
@@ -137,7 +139,7 @@ A **microarquitetura Core** (Intel, 2006) substituiu a **NetBurst** (Pentium 4/D
 
 | Característica | Detalhe |
 |---|---|
-| 🔢 **Arquitetura** | **32-bit** (mantém os 32 bits do Pentium 4) |
+| 🔢 **Arquitetura** | **64-bit** (Intel 64) nos Core 2; o Core Duo "Yonah" inicial ainda era 32 bits |
 | ⚡ **Foco** | Mais desempenho **por ciclo (IPC)**, não só MHz |
 | 🧠 **Multicore** | Dual-core (Core Duo, Core 2 Duo), depois quad-core |
 | 🔧 **Pipeline** | Curto (~14 estágios), contra ~31 do NetBurst |

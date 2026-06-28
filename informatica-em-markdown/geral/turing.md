@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** Alan Turing (1912–1954) criou o **modelo teórico do computador** (a Máquina de Turing, 1936), ajudou a vencer a Segunda Guerra **quebrando o código Enigma**, e lançou as bases da **Inteligência Artificial** com o **Teste de Turing** (1950).
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alan_Turing_%281951%29_%28crop%29.jpg/360px-Alan_Turing_%281951%29_%28crop%29.jpg" alt="Alan Turing em 1951" width="320"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Alan_Turing_%281951%29_%28crop%29.jpg?width=360" alt="Alan Turing em 1951" width="320"><br>
   <em>Alan Turing em 1951. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -116,6 +116,8 @@ O **Prêmio Turing** é considerado o **"Prêmio Nobel da Computação"**.
 - 🌐 Suas ideias sobre computação e IA fundamentam **quase toda a tecnologia moderna**.
 - 🏅 Foi homenageado postumamente, inclusive com o **Prêmio Turing**.
 - 💷 Sua imagem estampa a nota de **£50** do Banco da Inglaterra (desde 2021).
+- ⚖️ **Perseguição e perdão:** condenado em **1952** por homossexualidade (então crime no Reino Unido) e submetido à **castração química**, Turing morreu em **1954**, por envenenamento com cianeto. Recebeu **perdão real** em **2013**, e em 2017 a **"Lei de Turing"** estendeu o perdão a milhares de homens condenados sob a mesma lei.
+- 🧩 **"Turing-completo":** diz-se que um sistema é *Turing-complete* quando consegue computar tudo o que uma Máquina de Turing computa — um conceito central da computação até hoje.
 
 > Turing foi um visionário cujo impacto vai muito além de sua época, estabelecendo os fundamentos **teóricos e práticos** da era digital.
 

@@ -1,83 +1,89 @@
-Na parametrização do IntelliJ de VMOptions: qual a diferença entre essas 2 memórias:-Xmx29g -XX:MaxDirectMemorySize=29g ?
+# ☕ JVM — memória *heap* (`-Xmx`) × memória direta (`-XX:MaxDirectMemorySize`)
 
-Excelente pergunta — e bem importante para entender onde sua aplicação realmente está gastando memória 👇
+> 💡 **Em uma frase:** `-Xmx` limita a **memória heap** da JVM (objetos gerenciados pelo *Garbage Collector*); `-XX:MaxDirectMemorySize` limita a **memória direta (off-heap)**, alocada fora do GC — e somar as duas é essencial para não estourar a RAM física.
 
 ---
 
-## 🧩 Diferença entre `-Xmx` e `-XX:MaxDirectMemorySize`
+## 🧩 `-Xmx` — a memória *heap*
 
-### 🔹 `-Xmx`
-
-* Controla **a memória do heap Java** — ou seja, o espaço onde ficam **objetos gerenciados pela JVM**, como Strings, coleções (`ArrayList`, `Map`, etc.) e quaisquer instâncias criadas com `new`.
-* Essa memória é **gerenciada pelo Garbage Collector (GC)**.
-* Quando a JVM ultrapassa esse limite, ocorre o famoso:
+- Controla **o heap Java**: o espaço onde ficam os **objetos gerenciados pela JVM** (Strings, coleções como `ArrayList`/`Map`, e tudo criado com `new`).
+- É **gerenciada pelo Garbage Collector (GC)**.
+- Ao ultrapassar o limite, ocorre o famoso:
 
   ```
   java.lang.OutOfMemoryError: Java heap space
   ```
 
-📘 **Exemplo prático:**
+📘 **Exemplo:**
 
 ```java
-byte[] data = new byte[1024 * 1024 * 1024]; // 1 GB
+byte[] data = new byte[1024 * 1024 * 1024]; // 1 GB — vai para o heap (afetado por -Xmx)
 ```
-
-Esse array é **heap memory**, afetado por `-Xmx`.
 
 ---
 
-### 🔹 `-XX:MaxDirectMemorySize`
+## 🧩 `-XX:MaxDirectMemorySize` — a memória direta (off-heap)
 
-* Controla **a memória direta (off-heap)**, usada **fora do controle do GC**, mas ainda dentro do processo da JVM.
-* É usada principalmente por:
+- Controla a **memória direta (off-heap)**: alocada **fora do controle do GC**, mas ainda **dentro do processo** da JVM (via `malloc` nativo).
+- Usada principalmente por:
+  - `ByteBuffer.allocateDirect()`
+  - frameworks de alto desempenho como **Netty**, **Arrow**, **Lucene** e a API **NIO**
+  - mecanismos de cache em memória nativa
+- É liberada apenas quando o GC coleta os objetos (`DirectByteBuffer`) que a referenciam.
+- Ao ultrapassar o limite:
 
-  * `ByteBuffer.allocateDirect()`
-  * Frameworks de alto desempenho como **Netty**, **Arrow**, **Lucene**, **NIO**
-  * Mecanismos de cache que usam memória nativa
-* Essa memória é alocada diretamente na RAM, via chamadas nativas (`malloc`), e **liberada apenas quando a JVM decide fazer GC de objetos que a referenciam**.
+  ```
+  java.lang.OutOfMemoryError: Direct buffer memory
+  ```
 
-Se esse limite for ultrapassado:
-
-```
-java.lang.OutOfMemoryError: Direct buffer memory
-```
-
-📘 **Exemplo prático:**
+📘 **Exemplo:**
 
 ```java
-ByteBuffer buffer = ByteBuffer.allocateDirect(1024 * 1024 * 1024); // 1 GB direto
+ByteBuffer buffer = ByteBuffer.allocateDirect(1024 * 1024 * 1024); // 1 GB direto (não aparece no heap)
 ```
-
-Esse consumo **não aparece no heap** — ele é contabilizado em `MaxDirectMemorySize`.
 
 ---
 
 ## 🧮 Resumo rápido
 
-| Tipo de memória       | Parâmetro                 | Controlado pelo GC | Exemplo típico                   | Exceção ao ultrapassar                   |
-| --------------------- | ------------------------- | ------------------ | -------------------------------- | ---------------------------------------- |
-| **Heap (on-heap)**    | `-Xmx`                    | ✅ Sim              | `new byte[...];`                 | `OutOfMemoryError: Java heap space`      |
-| **Direta (off-heap)** | `-XX:MaxDirectMemorySize` | ❌ Não              | `ByteBuffer.allocateDirect(...)` | `OutOfMemoryError: Direct buffer memory` |
+| Tipo de memória | Parâmetro | Sob controle do GC? | Exemplo típico | Exceção ao ultrapassar |
+|---|---|---|---|---|
+| **Heap (on-heap)** | `-Xmx` | ✅ Sim | `new byte[...]` | `OutOfMemoryError: Java heap space` |
+| **Direta (off-heap)** | `-XX:MaxDirectMemorySize` | ❌ Não | `ByteBuffer.allocateDirect(...)` | `OutOfMemoryError: Direct buffer memory` |
 
 ---
 
-## ⚠️ Quando usar cada um
+## ⚠️ Atenção ao total — caso `-Xmx29g -XX:MaxDirectMemorySize=29g`
 
-* Use **heap (`-Xmx`)** para dados Java normais e coleções.
-* Use **off-heap (`MaxDirectMemorySize`)** se quiser manipular grandes blocos binários (por exemplo, imagens, buffers de rede, arquivos mapeados em memória) sem sobrecarregar o GC.
+> 🚨 **As duas memórias são separadas e se somam.** Com `-Xmx29g` **e** `MaxDirectMemorySize=29g`, o processo pode chegar a **~58 GB** — muito acima dos **32 GB** de RAM deste Alienware. Na prática, isso levaria a **swap** pesado ou ao **OOM killer** do sistema.
+
+Além disso, o consumo real do processo (RSS) é **maior que o `-Xmx`**, pois inclui áreas que não são heap nem memória direta:
+
+- 🗂️ **Metaspace** (metadados de classes)
+- 🧵 **Pilhas de threads** (*thread stacks*)
+- ⚙️ **Code cache** do JIT
+- 🧹 estruturas internas do **GC**
+
+> 💡 **Regra prática:** dimensione `-Xmx` + `MaxDirectMemorySize` + folga (metaspace, stacks, SO) para caber **com sobra** na RAM física.
 
 ---
 
-## 💡 Dica de diagnóstico
+## 🔍 Diagnóstico
 
-Para ver ambos os consumos em tempo real:
+Para ver os consumos **heap + off-heap** em detalhe:
 
 ```bash
 jcmd <pid> VM.native_memory summary
 ```
 
-Isso mostra o uso **heap + off-heap** detalhado, útil quando há `OutOfMemoryError` misteriosos.
+> 📝 O *Native Memory Tracking* precisa estar **habilitado** ao iniciar a JVM: `-XX:NativeMemoryTracking=summary` (há um pequeno custo de desempenho).
+
+Outras ferramentas úteis: `jcmd <pid> GC.heap_info`, **VisualVM** e **Java Mission Control (JMC)**.
 
 ---
 
-Se quiser, posso te mostrar um **código em Java** que mede, em tempo real, quanto da memória heap e off-heap está sendo usada (com `Runtime` + `sun.misc.Unsafe` ou `DirectByteBuffer`), para você visualizar exatamente onde está o gargalo. Deseja isso?
+## 📚 Fontes e leitura adicional
+
+- 📖 Oracle: [Java HotSpot VM Options](https://docs.oracle.com/en/java/javase/17/docs/specs/man/java.html) · [Native Memory Tracking](https://docs.oracle.com/en/java/javase/17/troubleshoot/diagnostic-tools.html)
+
+> 🔗 **Veja também:** [`../memoria.md`](../memoria.md) · [`../../computadores/allienwareMeu.md`](../../computadores/allienwareMeu.md)

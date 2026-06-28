@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** lançado em **2012** com fins educacionais no Reino Unido, o Raspberry Pi é um **computador completo (SBC)** que cabe na palma da mão, roda **Linux** e custa uma fração do preço de um PC — popularizando a computação física, servidores caseiros e a robótica.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Raspberry_Pi_5_--_2025_--_0009-16.jpg/420px-Raspberry_Pi_5_--_2025_--_0009-16.jpg" alt="Raspberry Pi 5" width="420"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Raspberry_Pi_5_--_2025_--_0009-16.jpg?width=420" alt="Raspberry Pi 5" width="420"><br>
   <em>A Raspberry Pi 5, modelo mais avançado da linha principal. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -34,6 +34,11 @@ O **Raspberry Pi** é um **computador de placa única (SBC — *Single-Board Com
 - 📅 Primeiro modelo lançado em **2012**.
 - 🎓 Objetivo inicial: **ensinar programação e ciência da computação** nas escolas, com hardware barato.
 - 🌍 Tornou-se um fenômeno mundial entre **makers, hobbistas e a indústria**, com dezenas de milhões de unidades vendidas.
+
+> ⭐ **Curiosidades:**
+> - 🍓 **Por que "Raspberry Pi":** segue a tradição de batizar computadores com **frutas** (Apple, Apricot, Acorn…), e o **"Pi"** vem de **Python**, a linguagem que a placa pretendia ensinar.
+> - 💥 **Esgotou no lançamento:** em **29 de fevereiro de 2012**, a procura foi tão grande que **derrubou os servidores** das lojas; o primeiro lote sumiu em minutos.
+> - 📈 Já passou de **60 milhões** de unidades, e a empresa **abriu capital na Bolsa de Londres em 2024**.
 
 ---
 

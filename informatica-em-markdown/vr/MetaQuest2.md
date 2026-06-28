@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** lançado pela Meta (ex-Oculus) em 2020, o **Meta Quest 2** é um headset de **realidade virtual autônomo** (sem PC, sem fios, sem sensores externos) que, por um preço acessível, levou o VR de qualidade ao grande público.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Oculus_Quest_II_%2850844634326%29.jpg/420px-Oculus_Quest_II_%2850844634326%29.jpg" alt="Meta Quest 2 e controles" width="420"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Oculus_Quest_II_%2850844634326%29.jpg?width=420" alt="Meta Quest 2 e controles" width="420"><br>
   <em>O Meta Quest 2 com seus controles Touch. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -39,6 +39,10 @@ O **Meta Quest 2** (originalmente **Oculus Quest 2**) é um headset de **realida
 | ⚖️ **Peso** | ~503 g |
 | 💿 **Armazenamento** | 64 / 128 / 256 GB |
 | 🔋 **Bateria** | ~2–3 horas |
+
+> ⭐ **Curiosidades:**
+> - 📘 **A polêmica da conta do Facebook:** no lançamento (2020), a Meta passou a **exigir login com conta do Facebook** para usar o aparelho — decisão tão criticada que foi **revertida em 2022**, com as "contas Meta".
+> - 🏆 Com cerca de **20 milhões** de unidades, tornou-se o **headset de VR mais vendido** da história — o grande responsável por levar a realidade virtual ao público geral.
 
 ---
 

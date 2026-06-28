@@ -23,6 +23,8 @@
 
 Em outras palavras, um sprite é como um **"recorte animado"** que o sistema coloca **sobre** o cenário para representar um objeto visível.
 
+> ⭐ **Curiosidade — de onde vem o nome:** *sprite* significa **duende/espírito** em inglês. O termo pegou porque o objeto parece **"flutuar" sobre o cenário** — aparecendo e se movendo sem perturbar o fundo, como um fantasma.
+
 ---
 
 <a id="2-características-principais"></a>

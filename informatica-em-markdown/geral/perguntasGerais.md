@@ -136,6 +136,8 @@ A evolução do armazenamento moldou profundamente o software:
 - 📼 **Fitas (1950s):** armazenamento **linear/sequencial**, sem diretórios.
 - 📁 **FAT (1977):** tabela de alocação simples; **FAT32** (1996) suportava volumes maiores. Sofria de **fragmentação** e não tinha journaling.
 - 🐧 **UFS (Unix, 1974):** introduziu os **inodes** (metadados), hierarquia de diretórios e links simbólicos — base dos FS modernos.
+
+> ⭐ **Curiosidade:** o **FAT** foi escrito por **Bill Gates** e **Marc McDonald** em **1977** e é incrivelmente longevo: variantes como **FAT32** e **exFAT** ainda são o padrão de **cartões SD** e **pendrives** até hoje, por serem lidas por praticamente qualquer dispositivo.
 - 🪟 **NTFS (1993):** trouxe **journaling** (registro de operações contra corrupção), permissões avançadas (ACLs) e compressão; organização em **B+ Tree**.
 - 🐧 **ext4 (2008):** padrão do Linux; volumes até **1 exabyte**, **extents** (faixas contíguas) e alocação dinâmica.
 - 🌳 **Btrfs / ZFS:** focam em **integridade de dados** (checksums), **snapshots**, **RAID** integrado e **Copy-on-Write** — ideais para servidores e datacenters.

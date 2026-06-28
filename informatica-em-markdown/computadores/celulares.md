@@ -5,7 +5,7 @@
 > 📝 **Do texto original:** *"Quando os anos 2000 chegaram, a revolução móvel começou. O iPhone apareceu em 2007, e os smartphones se tornaram parte essencial das nossas vidas. Esses dispositivos não eram apenas telefones; eles eram câmeras, navegadores, calculadoras e muito mais. Foi como carregar o conhecimento do mundo inteiro no bolso."*
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2007Computex_e21Forum-MartinCooper.jpg/420px-2007Computex_e21Forum-MartinCooper.jpg" alt="Martin Cooper com o protótipo Motorola de 1973" width="420"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/2007Computex_e21Forum-MartinCooper.jpg?width=420" alt="Martin Cooper com o protótipo Motorola de 1973" width="420"><br>
   <em>Martin Cooper segurando o protótipo do Motorola DynaTAC, com que fez a primeira ligação móvel em 1973. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -98,6 +98,8 @@ Um smartphone moderno reúne funções que antes exigiam aparelhos separados:
 - 🧱 O DynaTAC 8000X era apelidado de **"tijolo"** pelo tamanho e peso.
 - 🖐️ O **IBM Simon (1993)** já tinha tela sensível ao toque — **14 anos antes** do iPhone.
 - 🌍 Há mais **assinaturas de celular** do que **habitantes** na Terra.
+- 💬 A primeira mensagem **SMS** da história — *"Merry Christmas"* — foi enviada em **dezembro de 1992**, de um computador para um celular.
+- 📱 O **Nokia 1100** (2003), com mais de **250 milhões** de unidades, é um dos celulares mais vendidos de todos os tempos.
 
 ---
 

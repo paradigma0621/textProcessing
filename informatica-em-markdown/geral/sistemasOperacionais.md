@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** a multitarefa nasceu nos **mainframes e minicomputadores** dos anos 1960 (Atlas, CTSS, Multics, Unix), mas os primeiros **IBM PCs** rodavam **uma tarefa por vez** — não por capricho, mas por limitações de **hardware (8088)** e do **MS-DOS**.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pdp7-oslo-2005.jpeg/420px-Pdp7-oslo-2005.jpeg" alt="PDP-7" width="420"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Pdp7-oslo-2005.jpeg?width=420" alt="PDP-7" width="420"><br>
   <em>Um PDP-7, máquina em que o Unix multitarefa nasceu em 1969. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -46,6 +46,11 @@ O **primeiro sistema operacional multitarefa** foi o **Atlas Supervisor**, desen
 - 🖥️ O **PDP-7** foi escolhido por ser a máquina disponível no **Bell Labs** — barata e flexível.
 
 > 🧩 A arquitetura multitarefa do Unix foi refinada nas versões seguintes (a **V6** foi muito distribuída, rodando em **PDP-11**).
+
+> ⭐ **Curiosidades do Unix:**
+> - 🎮 Ken Thompson começou o Unix em parte para rodar **"Space Travel"**, um jogo que ele mesmo criara e queria jogar num **PDP-7** ocioso.
+> - 😏 O nome **"Unix"** é um trocadilho com **"Multics"**: era uma versão mais enxuta ("castrada") daquele projeto — de *Unics* a *Unix*.
+> - 🔤 Foi para reescrever o Unix de forma portável que Dennis Ritchie criou a linguagem **C** (1972) — até hoje uma das mais influentes do mundo.
 
 ---
 

@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** lançado pela Apple em **2024**, o **Vision Pro** é um headset de **realidade mista** (AR + VR) com dois chips dedicados e telas Micro-OLED de mais de **23 milhões de pixels** — projetado para produtividade e entretenimento de altíssima qualidade.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Apple_Vision_Pro_with_Solo_Knit_Band.jpg/420px-Apple_Vision_Pro_with_Solo_Knit_Band.jpg" alt="Apple Vision Pro" width="420"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Apple_Vision_Pro_with_Solo_Knit_Band.jpg?width=420" alt="Apple Vision Pro" width="420"><br>
   <em>Apple Vision Pro com a Solo Knit Band. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -38,6 +38,11 @@ O **Apple Vision Pro** combina **realidade aumentada (AR)** e **realidade virtua
 | 👁️ **Tela** | Micro-OLED, **>23 milhões de px** (dois painéis) |
 | 🔋 **Bateria** | ~2 horas (externa, por cabo) |
 | ⚖️ **Peso** | ~600 g |
+
+> ⭐ **Curiosidades:**
+> - 💲 **Preço de lançamento:** **US$ 3.499** — posicionando-o como produto profissional/de nicho, não de massa.
+> - 👀 **EyeSight:** uma tela externa exibe uma representação dos **olhos do usuário** para quem está por perto, sinalizando quando ele está imerso ou atento — algo inédito em headsets.
+> - 🧑‍💻 A Apple evita os termos "VR/AR" e batiza a categoria de **"computação espacial"** (*spatial computing*).
 
 ---
 

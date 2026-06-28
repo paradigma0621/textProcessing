@@ -41,7 +41,7 @@ Cada arquivo `.md` é independente e traz:
 | **1977** | Apple II · Atari 2600 | [Apple II](computadores/AppleII.md) · [Atari](videoGames/videoGameAtari.md) |
 | **1981** | IBM PC (Intel 8088 **8-bit**) · placa **CGA** | [IBM PC](computadores/IBM-PC.md) · [vídeo](geral/placasDeVideo-Monitores.md) |
 | **1982/84** | Intel 80286 (**16-bit**) · IBM AT (modo protegido) | [286](computadores/286.md) |
-| **1983** | IBM PC-XT · NES | [XT](computadores/XT-8088.md) · [consoles](videoGames/comparativoEntreConsoles.md) |
+| **1983** | IBM PC-XT · NES | [IBM PC (XT)](computadores/IBM-PC.md) · [consoles](videoGames/comparativoEntreConsoles.md) |
 | **1985** | Intel 80386 (**32-bit**) | [386](computadores/386.md) |
 | **1987** | Padrão de vídeo VGA | [vídeo](geral/placasDeVideo-Monitores.md) |
 | **1989** | Intel 80486 (**32-bit** + FPU + cache L1) | [486](computadores/486.md) |
@@ -65,9 +65,7 @@ Cada arquivo `.md` é independente e traz:
 | [Datapoint2200](computadores/Datapoint2200.md) | O "avô" do PC e do x86 (1970) |
 | [AppleI](computadores/AppleI.md) | O primeiro produto da Apple (1976) |
 | [AppleII](computadores/AppleII.md) | O PC doméstico de massa (1977) |
-| [IBM-PC](computadores/IBM-PC.md) | O padrão da indústria (1981) |
-| [IBM_PC_5150](computadores/IBM_PC_5150.md) | A memória do IBM PC original |
-| [XT-8088](computadores/XT-8088.md) | O PC com disco rígido (1983) |
+| [IBM-PC](computadores/IBM-PC.md) | O padrão da indústria (1981) e a família (XT, AT, PS/2) |
 | [286](computadores/286.md) | Modo protegido e o IBM AT |
 | [386](computadores/386.md) | A chegada dos 32 bits |
 | [486](computadores/486.md) | FPU e cache integrados |
@@ -91,7 +89,7 @@ Cada arquivo `.md` é independente e traz:
 | [unidadesDeDiquete](geral/unidadesDeDiquete.md) | A história dos disquetes |
 | [perguntasGerais](geral/perguntasGerais.md) | Perguntas de estudo + sistemas de arquivos |
 | [geral](geral/geral.md) | Conceitos diversos de hardware |
-| [monitores-modernos/](geral/monitores-modernos/) | Extras modernos (HDR, DCI-P3, G-Sync, YCbCr) |
+| [monitores-modernos/](geral/monitores-modernos/) | Extras modernos (HDR, DCI-P3, G-Sync, YCbCr, banda/DSC) |
 
 ### 🤖 IA/
 | Arquivo | Tema |

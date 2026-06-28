@@ -69,6 +69,8 @@
 
 > ⚠️ **Programa armazenado** ≠ arquitetura física: é o conceito de guardar **instruções junto com dados** na memória — a essência do modelo de von Neumann.
 
+> ⭐ **Curiosidade:** a palavra **"computador"** (*computer*) já foi uma **profissão** — até meados do século XX designava **pessoas** (muitas vezes mulheres) que faziam cálculos à mão. O próprio **ENIAC** foi programado por **seis mulheres**, pioneiras esquecidas por décadas.
+
 ---
 
 <a id="5-fontes-e-leitura-adicional"></a>

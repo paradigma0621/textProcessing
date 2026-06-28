@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** lançado em **1977** como *Atari VCS*, com apenas **128 bytes de RAM**, o Atari 2600 popularizou o **cartucho intercambiável** e provou que dava para ter uma "fliperama em casa" — fundando a indústria do videogame doméstico.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Atari-2600-Wood-4Sw-Set.png/420px-Atari-2600-Wood-4Sw-Set.png" alt="Atari 2600 modelo de madeira" width="420"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Atari-2600-Wood-4Sw-Set.png?width=420" alt="Atari 2600 modelo de madeira" width="420"><br>
   <em>O icônico Atari 2600 "woodgrain" (modelo de madeira) com joystick. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -108,6 +108,8 @@ O **Atari 2600** (inicialmente **Atari VCS — Video Computer System**) é um do
 - 🥇 Um dos primeiros consoles com **cartuchos intercambiáveis** — mudar de jogo virou algo trivial.
 - 🎮 Pioneiro na **popularização dos videogames domésticos**, criando gêneros e franquias.
 - 💥 Protagonizou também o **"crash dos videogames de 1983"** (excesso de jogos ruins, como o famigerado *E.T.*), que abriu espaço para a chegada do **NES**.
+- 🏜️ **A lenda do aterro:** tantos cartuchos encalharam (sobretudo o de *E.T.*) que a Atari **enterrou milhões deles** no deserto de **Alamogordo (Novo México)** em 1983. Tratado como mito urbano por décadas, foi **confirmado por uma escavação em 2014**.
+- 🥚 **O primeiro Easter egg dos games:** em *Adventure* (1979), o programador **Warren Robinett** escondeu seu nome numa sala secreta — origem do termo *"Easter egg"* nos videogames.
 
 > 🔗 Para entender o salto técnico do Atari para o NES e além, veja [`comparativoEntreConsoles.md`](comparativoEntreConsoles.md).
 

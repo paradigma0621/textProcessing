@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** a IBM definiu os padrões gráficos dos PCs — do texto monocromático (**MDA**) à primeira cor (**CGA**, 1981) e ao marcante **VGA** (1987, 640×480), cujo conector de 15 pinos sobreviveu por décadas.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/IBM_VGA_graphics_card.jpg/420px-IBM_VGA_graphics_card.jpg" alt="Placa de vídeo IBM VGA" width="420"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/IBM_VGA_graphics_card.jpg?width=420" alt="Placa de vídeo IBM VGA" width="420"><br>
   <em>Placa de vídeo IBM VGA. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -63,6 +63,8 @@ A **VGA (Video Graphics Array)**, lançada pela IBM em **1987** com o **PS/2**, 
 **Modos gráficos:**
 - **640×480 com 16 cores** (4-bit, alta resolução) — virou o **padrão básico** da era VGA.
 - **320×200 com 256 cores** (8-bit, de uma paleta de 262.144) — muito usado em **jogos**.
+
+> 🎮 **Curiosidade — o lendário "Mode 13h":** esse modo de **320×200 com 256 cores** era chamado de **"Mode 13h"** (13 em hexadecimal). Por ser simples de programar (memória linear, **1 byte = 1 pixel**, a partir do endereço `0xA0000`), virou o **queridinho dos programadores de jogos DOS** dos anos 1990.
 
 ---
 

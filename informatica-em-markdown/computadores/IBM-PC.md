@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** lançado em **12 de agosto de 1981**, o **IBM Personal Computer** apostou numa **arquitetura aberta** com peças de prateleira — uma decisão ousada que o transformou no **padrão da indústria** e deu origem a toda a linhagem dos "PCs compatíveis" que usamos até hoje.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/IBM_PC-IMG_7271_%28transparent%29.png/460px-IBM_PC-IMG_7271_%28transparent%29.png" alt="IBM PC 5150" width="460"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/IBM_PC-IMG_7271_%28transparent%29.png?width=460" alt="IBM PC 5150" width="460"><br>
   <em>IBM PC modelo 5150 com monitor e teclado. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -148,7 +148,7 @@ O barramento do PC original ficou conhecido como **ISA (Industry Standard Archit
 
 ### 7.3. Conjunto de caracteres
 
-Usava **ASCII de 7 bits** estendido para 8 bits com caracteres não-padrão. Surgiram as **páginas de código** (*code pages*) para variantes nacionais — hoje obsoletas, substituídas por **ISO 8859-1**, **Windows-1251** e **Unicode**.
+Usava **ASCII de 7 bits** estendido para 8 bits com caracteres não-padrão. Surgiram as **páginas de código** (*code pages*) para variantes nacionais (a original era a **CP437**) — hoje obsoletas, substituídas por **ISO 8859-1**, **Windows-1252** e **Unicode**.
 
 ### 7.4. Mídia de armazenamento
 
@@ -207,6 +207,11 @@ O PC original tinha **40 KB de ROM**: 8 KB para o **POST** (autoteste) e o **BIO
 - 🪟 A escolha do **MS-DOS** fez a fortuna da **Microsoft**, que manteve os direitos de licenciar o sistema para os clones.
 - 🧱 O termo "PC" virou sinônimo de computador pessoal compatível com IBM — em oposição ao "Mac".
 
+> ⭐ **Mais curiosidades:**
+> - ⚖️ **O BIOS de "sala limpa":** os clones só se tornaram legais porque empresas como a **Compaq** e, sobretudo, a **Phoenix Technologies** (1984) recriaram o BIOS pela técnica de **clean-room** — uma equipe lia o BIOS da IBM e escrevia uma especificação; outra equipe, **sem nunca ter visto o código original**, o reimplementava do zero. Isso driblava o *copyright* da IBM.
+> - 💬 **A frase dos "640 KB":** o limite de **640 KB** de memória convencional do DOS gerou a célebre frase *"640K ought to be enough for anybody"*, atribuída a **Bill Gates** — que sempre **negou** tê-la dito.
+> - 🔊 **Diagnóstico por bipes:** sem vídeo, o PC comunicava falhas pelo **alto-falante** durante o **POST** — uma sequência de bipes que indicava qual componente havia falhado.
+
 ---
 
 <a id="11-linha-do-tempo"></a>
@@ -229,4 +234,4 @@ O PC original tinha **40 KB de ROM**: 8 KB para o **POST** (autoteste) e o **BIO
 - 📖 Wikipédia (PT): [IBM Personal Computer](https://pt.wikipedia.org/wiki/IBM_Personal_Computer) · [IBM PC XT](https://pt.wikipedia.org/wiki/IBM_Personal_Computer_XT)
 - 📖 Wikipédia (EN): [IBM Personal Computer](https://en.wikipedia.org/wiki/IBM_Personal_Computer)
 
-> 🔗 **Veja também:** [`IBM_PC_5150.md`](IBM_PC_5150.md) · [`XT-8088.md`](XT-8088.md) · [`286.md`](286.md) · [`386.md`](386.md) · [`486.md`](486.md) · [`pentiums.md`](pentiums.md) · [`Datapoint2200.md`](Datapoint2200.md)
+> 🔗 **Veja também:** [`286.md`](286.md) · [`386.md`](386.md) · [`486.md`](486.md) · [`pentiums.md`](pentiums.md) · [`Datapoint2200.md`](Datapoint2200.md)

@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** lançado em **1970** como um simples *terminal inteligente*, o Datapoint 2200 acabou, sem querer, definindo o conjunto de instruções que daria origem ao **Intel 8008 → 8080 → 8086 → x86** — a arquitetura que ainda move a maioria dos PCs, notebooks e servidores do mundo.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Datapoint-2200.jpg/420px-Datapoint-2200.jpg" alt="Datapoint 2200" width="420"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Datapoint-2200.jpg?width=420" alt="Datapoint 2200" width="420"><br>
   <em>O Datapoint 2200 da Computer Terminal Corporation (CTC), 1970. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -139,4 +139,4 @@ Os usuários do 2200 (e de seus sucessores) tinham várias opções de periféri
 - 📖 Wikipédia (EN): [Datapoint 2200](https://en.wikipedia.org/wiki/Datapoint_2200)
 - 📖 Wikipédia (EN): [Intel 8008](https://en.wikipedia.org/wiki/Intel_8008) · [x86](https://en.wikipedia.org/wiki/X86)
 
-> 🔗 **Veja também:** [`AppleI.md`](AppleI.md) · [`IBM_PC_5150.md`](IBM_PC_5150.md) · [`XT-8088.md`](XT-8088.md) · [`pentiums.md`](pentiums.md)
+> 🔗 **Veja também:** [`AppleI.md`](AppleI.md) · [`IBM-PC.md`](IBM-PC.md) · [`pentiums.md`](pentiums.md)

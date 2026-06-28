@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** criado na Itália em **2005** como hardware **open-source**, o Arduino transformou microcontroladores — antes restritos a engenheiros — em ferramenta acessível para **estudantes, artistas e makers** do mundo todo.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/420px-Arduino_Uno_-_R3.jpg" alt="Arduino Uno R3" width="420"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Arduino_Uno_-_R3.jpg?width=420" alt="Arduino Uno R3" width="420"><br>
   <em>O Arduino Uno R3 — a placa mais icônica da plataforma. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -42,6 +42,11 @@ A proposta é permitir que qualquer pessoa **leia sensores** e **controle atuado
 - 📚 O objetivo era **educacional e criativo** — dar a artistas e estudantes uma forma barata de criar objetos interativos.
 
 > 💡 **Por que foi revolucionário:** antes do Arduino, programar um microcontrolador exigia equipamentos caros e conhecimento avançado. O Arduino reduziu isso a uma placa de poucos dólares + um cabo USB.
+
+> ⭐ **Curiosidades:**
+> - 🍷 **O nome veio de um bar:** "Arduino" era o **bar em Ivrea** onde os fundadores se reuniam — batizado em homenagem a **Arduíno d'Ivrea**, rei da Itália por volta do ano 1000.
+> - 🎨 A linguagem e a IDE do Arduino descendem dos projetos **Wiring** e **Processing**, criados para ensinar programação a **artistas e designers**.
+> - ⚖️ Entre 2008 e 2017, uma **disputa de marca** chegou a dividir o projeto em "Arduino LLC" e "Arduino SRL", até a reunificação sob a Arduino AG.
 
 ---
 

@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** uma **única placa de circuito**, montada à mão por **Steve Wozniak** em 1976 e vendida por **US$ 666,66** graças à ideia comercial de **Steve Jobs**, deu origem à Apple e ajudou a iniciar a revolução do computador pessoal.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/CopsonApple1_2k_cropped.jpg/520px-CopsonApple1_2k_cropped.jpg" alt="Apple I" width="520"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/CopsonApple1_2k_cropped.jpg?width=520" alt="Apple I" width="520"><br>
   <em>Um Apple I original — apenas a placa de circuito impresso, sem gabinete. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -251,7 +251,7 @@ O Apple I virou um dos **itens de colecionador mais valiosos** da história da t
 > 🧪 **Clone moderno:** o **Replica 1** (2003), compatível em software com o Apple I e feito com peças modernas, foi lançado por cerca de **US$ 200**.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Original_1976_Apple_1_Computer_In_A_Briefcase.JPG/420px-Original_1976_Apple_1_Computer_In_A_Briefcase.JPG" alt="Apple I numa maleta" width="420"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Original_1976_Apple_1_Computer_In_A_Briefcase.JPG?width=420" alt="Apple I numa maleta" width="420"><br>
   <em>Apple I original de 1976 montado numa maleta. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -264,6 +264,8 @@ O Apple I virou um dos **itens de colecionador mais valiosos** da história da t
 - 🧰 Foi um dos primeiros a ser vendido **montado**, não como kit — um diferencial competitivo.
 - 🏛️ Hoje, exemplares estão em **museus** e coleções, valendo **milhões**.
 - 🌱 Foi a **semente da Apple**: sua venda financiou o Apple II, que por sua vez bancou o Macintosh.
+- 🧑‍🤝‍🧑 **O terceiro fundador esquecido:** **Ronald Wayne** cofundou a Apple com Jobs e Wozniak, desenhou o **primeiro logotipo** e escreveu o manual do Apple I — mas **vendeu sua fatia de 10 % por apenas US$ 800** poucos dias depois. Hoje, valeria dezenas de bilhões.
+- 🧠 **A sacada da RAM barata:** Wozniak projetou o Apple I em torno de **memória dinâmica (DRAM)**, bem mais barata que a **estática (SRAM)** usada pelos concorrentes — e criou um circuito esperto que aproveitava a geração de vídeo para fazer o *refresh* da memória.
 
 ---
 
@@ -273,4 +275,4 @@ O Apple I virou um dos **itens de colecionador mais valiosos** da história da t
 - 📖 Wikipédia (PT): [Apple I](https://pt.wikipedia.org/wiki/Apple_I) · [MOS Technology 6502](https://pt.wikipedia.org/wiki/MOS_Technology_6502)
 - 📖 Wikipédia (EN): [Apple I](https://en.wikipedia.org/wiki/Apple_I) · [Apple II](https://en.wikipedia.org/wiki/Apple_II)
 
-> 🔗 **Veja também:** [`AppleII.md`](AppleII.md) · [`IBM_PC_5150.md`](IBM_PC_5150.md) · [`Datapoint2200.md`](Datapoint2200.md)
+> 🔗 **Veja também:** [`AppleII.md`](AppleII.md) · [`IBM-PC.md`](IBM-PC.md) · [`Datapoint2200.md`](Datapoint2200.md)

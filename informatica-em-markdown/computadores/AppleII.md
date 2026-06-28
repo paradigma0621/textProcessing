@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** se o **Apple I** provou que dava para construir um micro, o **Apple II (1977)** provou que dava para **vendê-lo aos milhões** — com gráficos coloridos, arquitetura aberta e o aplicativo que justificou comprar um computador: a planilha **VisiCalc**.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Apple_II-IMG_7064.jpg/420px-Apple_II-IMG_7064.jpg" alt="Apple II" width="420"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Apple_II-IMG_7064.jpg?width=420" alt="Apple II" width="420"><br>
   <em>Apple II com dois drives Disk II e monitor. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -147,6 +147,8 @@ A série durou de **1977 a 1993**, incluindo:
 - 🏫 O Apple IIe dominou as **escolas americanas** nos anos 1980, formando uma geração inteira em computação.
 - 💰 As vendas do Apple II **sustentaram financeiramente a Apple** durante os anos difíceis do início do Macintosh.
 - 🔧 Sua longevidade (16 anos) é uma das maiores da história dos computadores pessoais.
+- 🎨 **Cor "de graça":** em vez de um chip gráfico, Wozniak explorou o **colorburst do sinal NTSC** — certos padrões de bits na memória "enganavam" a TV e produziam cores. Um truque genial que gerou cor praticamente **sem hardware adicional**.
+- 🎹 **GS = _Graphics & Sound_:** o **Apple IIGS** trazia um chip de som **Ensoniq** de 15 vozes, herdado de sintetizadores musicais — áudio muito à frente dos PCs da mesma época.
 
 ---
 
@@ -171,4 +173,4 @@ A série durou de **1977 a 1993**, incluindo:
 - 📖 Wikipédia (PT): [Apple II](https://pt.wikipedia.org/wiki/Apple_II)
 - 📖 Wikipédia (EN): [Apple II](https://en.wikipedia.org/wiki/Apple_II) · [VisiCalc](https://en.wikipedia.org/wiki/VisiCalc) · [Disk II](https://en.wikipedia.org/wiki/Disk_II)
 
-> 🔗 **Veja também:** [`AppleI.md`](AppleI.md) · [`IBM_PC_5150.md`](IBM_PC_5150.md) · [`Datapoint2200.md`](Datapoint2200.md)
+> 🔗 **Veja também:** [`AppleI.md`](AppleI.md) · [`IBM-PC.md`](IBM-PC.md) · [`Datapoint2200.md`](Datapoint2200.md)

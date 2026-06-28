@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** a história da arquitetura de hardware é uma escada de gerações — **válvulas → transistores → circuitos integrados → microprocessadores → multinúcleo → quântico** — em que cada degrau, construído sobre o anterior, multiplicou o poder e encolheu o tamanho dos computadores.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/ENIAC_Penn1.jpg/520px-ENIAC_Penn1.jpg" alt="ENIAC" width="520"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/ENIAC_Penn1.jpg?width=520" alt="ENIAC" width="520"><br>
   <em>Painéis do ENIAC (1945), na Universidade da Pensilvânia. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -72,6 +72,8 @@
 - 🔥 **Tecnologia:** válvulas termiônicas — máquinas grandes, quentes e que consumiam muita energia.
 
 > 📜 Em **1945**, **John von Neumann** publicou o relatório *"First Draft of a Report on the EDVAC"*, estabelecendo os fundamentos dos computadores modernos.
+
+> ⚖️ **Polêmica de créditos:** o conceito de **programa armazenado** vinha sendo amadurecido por **J. Presper Eckert** e **John Mauchly** (os criadores do ENIAC). Como o rascunho circulou trazendo **apenas o nome de von Neumann**, a arquitetura levou o nome dele — ofuscando a dupla e azedando a relação entre eles. A divulgação ainda **anulou o sigilo** necessário para patentear a ideia.
 
 ---
 

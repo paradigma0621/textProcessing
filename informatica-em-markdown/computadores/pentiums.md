@@ -3,7 +3,7 @@
 > 💡 **Em uma frase:** a partir de **1993**, a linha **Pentium** abandonou os "números" (286/386/486) por uma **marca registrável** e inaugurou a era **superescalar** do x86 — evoluindo de um único núcleo a **64 bits** para a multimídia, a internet e, por fim, os **múltiplos núcleos**.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Intel_Pentium_Processor.svg/360px-Intel_Pentium_Processor.svg.png" alt="Logo Intel Pentium" width="320"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Intel_Pentium_Processor.svg?width=360" alt="Logo Intel Pentium" width="320"><br>
   <em>A marca Intel Pentium. Fonte: Wikimedia Commons.</em>
 </p>
 
@@ -170,6 +170,11 @@ Os processadores **Pentium** foram lançados pela **Intel** a partir de **1993**
 - 🏷️ "Pentium" virou **sinônimo de PC** nos anos 1990 — talvez a marca de CPU mais reconhecida da história.
 - 🧠 A linha atravessou a transição de **MHz para GHz**, da multimídia à internet e, finalmente, aos **múltiplos núcleos**.
 - 🔁 O fracasso térmico do **NetBurst** ensinou a indústria a priorizar **eficiência** e **paralelismo** em vez de clock bruto — caminho que levou aos **Core i3/i5/i7/i9** atuais.
+
+> ⭐ **Curiosidades:**
+> - 🔢 **De onde vem o nome:** "Pentium" deriva do grego **_pente_** (cinco) — era a **quinta geração** do x86 (depois do "i486", a quarta). O sufixo "-ium" deu àquilo um ar de elemento químico.
+> - 🔥 **O fim abrupto da corrida dos GHz:** a Intel chegou a prometer um Pentium 4 de **4 GHz**, mas **cancelou** o sucessor do NetBurst (núcleo **"Tejas"**) em **2004** — o calor tornou a meta inviável e selou a virada para os **múltiplos núcleos**.
+> - ➗ **Quem achou o bug do FDIV:** foi o matemático **Thomas Nicely**, em 1994, enquanto estudava **números primos**. A Intel a princípio minimizou o problema, mas a pressão pública forçou a troca gratuita dos chips.
 
 ---
 

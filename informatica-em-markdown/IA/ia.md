@@ -80,6 +80,8 @@
 
 > 📌 Cada fase **construiu sobre a anterior** — e os "invernos" recalibraram expectativas em vez de apagar o progresso.
 
+> ⭐ **Curiosidade — o "efeito ELIZA":** já em 1966, usuários atribuíam **compreensão e empatia** ao ELIZA, embora ele apenas reformulasse frases por padrões simples. O próprio Weizenbaum ficou **perturbado** ao ver pessoas se abrirem com o programa. Esse *"efeito ELIZA"* — projetar inteligência onde não há — é hoje mais relevante do que nunca, na era dos chatbots de LLM.
+
 ---
 
 <a id="3-o-conceito-de-inteligência-e-sua-mudança"></a>
@@ -158,7 +160,7 @@ A revolução do deep learning (2010s) resultou da convergência de vários avan
 ## 7. Deep Blue versus AlphaGo
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Deep_Blue.jpg/360px-Deep_Blue.jpg" alt="Deep Blue" width="360"><br>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Deep_Blue.jpg?width=360" alt="Deep Blue" width="360"><br>
   <em>Um computador semelhante ao Deep Blue, no Computer History Museum. Fonte: Wikimedia Commons.</em>
 </p>
 
